@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "760720048356",
+    "project_id": "parkeasy-de70f",
+    "storage_bucket": "parkeasy-de70f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760720048356:android:b9587cca896a20f4826cf1",
+        "android_client_info": {
+          "package_name": "com.example.iot_frontend"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "760720048356-5ktaequj2ekmgc1tntfugadavfeilpbd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.iot_frontend",
+            "certificate_hash": "2b0e0efe0778ed93d6ea4b1ff8b06e591c46b9e7"
+          }
+        },
+        {
+          "client_id": "760720048356-fd62tqqp4a4ar57n0qg48tag34gsftn5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsRobJfeSWXScivRJ6h7oH8gBa8qWIirI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "760720048356-fd62tqqp4a4ar57n0qg48tag34gsftn5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "760720048356-vpi1vf74fpn8unasutuu5i0u82kl706a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.iotFrontend"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
